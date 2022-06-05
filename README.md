@@ -1,13 +1,13 @@
-![GitHub Cards Preview](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSO-ANDROID.png?raw=true)
+![GitHub Cards Preview](https://github.com/sahil210garg/ExPenco.git/blob/master/art/EXPENSO-ANDROID.png?raw=true)
 
 # Expenso 📊
-A Simple Expense Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. *Made with love ❤️ by [Spikeysanju](https://github.com/Spikeysanju)*
+A Simple Expense Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. *Made with love ❤️ by [SahilGarg](https://github.com/sahil210garg)*
 
 <br />
 
 ***Try latest Expenso app apk from below 👇***
 
-[![Expenso](https://img.shields.io/badge/Expenso-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/Spikeysanju/Expenso/releases/download/v1.0.0-alpha01/Expenso.apk)
+[![Expenso](https://img.shields.io/badge/Expenso-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/sahil210garg/ExPenco.git/releases/download/v1.0.0-alpha01/Expenso.apk)
 
 <br />
 
@@ -22,14 +22,14 @@ A Simple Expense Tracker App 📱 built to demonstrate the use of modern android
 ## Day Mode 🌞
 Dashboard | All Income | All Expense | Details | Add Transaction 
 --- | --- | --- |--- |--- 
-![](https://github.com/Spikeysanju/Expenso/blob/master/art/DASHBOARD.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/INCOME.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSE.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DETAILS.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/ADD-TRANSACTION.png) 
+![](https://github.com/sahil210garg/ExPenco/blob/master/art/DASHBOARD.png) | ![](https://github.com/sahil210garg/ExPenco/blob/master/art/INCOME.png) | ![](https://github.com/sahil210garg/ExPenco/blob/master/art/EXPENSE.png) | ![](https://github.com/sahil210garg/ExPenco/blob/master/art/DETAILS.png) | ![](https://github.com/sahil210garg/Expenso/blob/master/art/ADD-TRANSACTION.png) 
 
 <br />
 
 ## We Support Dark Mode Too 🌚
 Dashboard | All Income | All Expense | Details | Add Transaction 
 --- | --- | --- |--- |--- 
-![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-DASHBOARD.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-INCOME.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-EXPENSE.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-DETAILS.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-ADD-TRANSACTION.png) 
+![](https://github.com/sahil210garg/ExPenco/blob/master/art/DARK-DASHBOARD.png) | ![](https://github.com/sahil210garg/ExPenco/blob/master/art/DARK-INCOME.png) | ![](https://github.com/sahil210garg/ExPenco/blob/master/art/DARK-EXPENSE.png) | ![](https://github.com/sahil210garg/ExPenco/blob/master/art/DARK-DETAILS.png) | ![](https://github.com/sahil210garg/ExPenco/blob/master/art/DARK-ADD-TRANSACTION.png) 
 
 <br />
 
