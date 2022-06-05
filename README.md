@@ -1,6 +1,6 @@
 ![GitHub Cards Preview](https://github.com/sahil210garg/ExPenco/blob/master/art/EXPENSO-ANDROID.png?raw=true)
 
-# Expenso 📊
+# ExPenco  📊
 A Simple Expense Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. *Made with love ❤️ by [SahilGarg](https://github.com/sahil210garg)*
 
 <br />
