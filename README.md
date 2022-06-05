@@ -1,19 +1,19 @@
 ![GitHub Cards Preview](https://github.com/sahil210garg/ExPenco/blob/master/art/EXPENSO-ANDROID.png?raw=true)
 
 # ExPenco  📊
-A Simple Expense Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. *Made with love ❤️ by [SahilGarg](https://github.com/sahil210garg)*
+A Simple ExPenco Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. *Made with love ❤️ by [SahilGarg](https://github.com/sahil210garg)*
 
 <br />
 
 ***Try latest Expenso app apk from below 👇***
 
-[![Expenso](https://img.shields.io/badge/Expenso-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/sahil210garg/ExPenco/releases/download/v1.0.0-alpha01/Expenso.apk)
+[![ExPenco](https://img.shields.io/badge/Expenso-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/sahil210garg/ExPenco/releases/download/v1.0.0-alpha01/Expenso.apk)
 
 <br />
 
 ## UI Design 🎨
 
-***Click to View Expenso app Design from below 👇***
+***Click to View ExPenco app Design from below 👇***
 
 [![Expenso](https://img.shields.io/badge/Expenso-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/Z5KMfiwo9RYtYBUMRSIfHh/Expense-Tracker-App?node-id=140%3A1016)
 
@@ -51,7 +51,7 @@ Dashboard | All Income | All Expense | Details | Add Transaction
 
 ## Package Structure 📦
     
-    dev.spikeysanju.expenso # Root Package
+    dev.sahilgarg.ExPenco # Root Package
     ├── di                  # Hilt DI Modules 
     ├── data                # For data handling.
     │   ├── local           # Local Persistence Database. Room (SQLite) database
